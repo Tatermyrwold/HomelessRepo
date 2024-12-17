@@ -1,0 +1,16 @@
+Package: com.tater.test
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Joshua Myrwold
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tater.test_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3284
+MD5sum: cf0b46c605d4acfd475e406d9e80f34b
+SHA1: 495939485261f09798cd9da42e9d954204ce1ec5
+SHA256: 8857b13b0167ff73004e104ba786ec236df51459462d4734e141b5beb9ec3fff
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Joshua Myrwold
+Name: Test
+
