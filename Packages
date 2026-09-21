@@ -14,6 +14,22 @@ MD5sum: 46f182a22043a4a1ca822987ce54af11
 SHA1: fba3fe73326d4cd7557627e6f092f8322f955708
 SHA256: b0a567a1594439f540c8cb50f058c5c3dc55219570691e436497014e9373cbe1
 
+Package: com.tater.oledvd
+Name: OLEDVD
+Description: A bouncing DVD-style screensaver for the locked OLED display. First device-test build.
+Maintainer: Joshua Myrwold
+Author: Joshua Myrwold
+Section: Tweaks
+Depends: firmware (>= 16.0), firmware (<< 17.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.1.1
+Installed-Size: 272
+Filename: ./debs/com.tater.oledvd_0.1.1_iphoneos-arm64.deb
+Size: 19180
+MD5sum: db7fbcb4387508796584338625cdcf12
+SHA1: 3d02c9f7bf3f9edceb8ffeaf5d2597420c133add
+SHA256: 4c8593902f5cf151cb83d94c1e15d3d6d3df6f76b879fdd61b447824830a1aca
+
 Package: com.tater.test
 Name: Test
 Description: An awesome MobileSubstrate tweak!
