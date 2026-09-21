@@ -3,6 +3,14 @@ Label: HomelessRepo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
 Components: main
 Description: A simple repository for my tweaks
+Architectures: iphoneos-arm iphoneos-arm64
+MD5Sum:
+ 73334d44b4fd18938b189d9ac5cb5b4e 1059 Packages
+ db4124e95a3169a0990cf2a96e0cb137 672 Packages.bz2
+ 4cf4acc784b5a8446c98f2815ae94e0d 586 Packages.gz
+SHA256:
+ a98dea8d83438626e162907cae99437977c459ed6309ca4f4360ed3bb3b992d2 1059 Packages
+ 8379cec41ae72ae3fb35343a3660f2255e26b82a6f97a23aa68b7489ca1cb0ad 672 Packages.bz2
+ f037923d17ac29dcd4c08180745527f1d13e1b8a09fd8067e5d25e355ac9048c 586 Packages.gz
