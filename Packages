@@ -46,6 +46,22 @@ MD5sum: aea8a9f5fe96d5510d8db5293765177a
 SHA1: a5140d3574fc7b99badb133ff6e4480d85cc8d22
 SHA256: 3b8bf6ef6ae94c550efe32a0a58f0b73d45c3e834deada4d5885f6097f7e9dcc
 
+Package: com.tater.neongridwallpaper
+Name: NeonGridWallpaper
+Description: A lightweight animated neon grid for Home and Lock Screens with grid-following touch pulses.
+Maintainer: Joshua Myrwold
+Author: Joshua Myrwold
+Section: Tweaks
+Depends: firmware (>= 16.1), firmware (<< 17.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 0.1.3
+Installed-Size: 96
+Filename: ./debs/com.tater.neongridwallpaper_0.1.3_iphoneos-arm64.deb
+Size: 14144
+MD5sum: 540f65768d513fa68234ca3763e48d4b
+SHA1: a2ab07acdc38219a595059a9bf4d0e10796a92c4
+SHA256: 39bbf3c346f001e5c64801e4dee543f0d9e8c45f4f90d544627a288c56e492e9
+
 Package: com.tater.oledvd
 Name: OLEDVD
 Description: A bouncing DVD-style screensaver for the locked OLED display. First device-test build.
